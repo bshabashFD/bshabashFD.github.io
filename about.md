@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Boris and I've recieved my degree from SFU in 2018. I've been interested in bio-informatics and data science for...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bshabash@domain.com](mailto:bshabash@domain.com)
